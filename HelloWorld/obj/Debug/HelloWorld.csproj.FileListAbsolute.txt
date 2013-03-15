@@ -1,0 +1,17 @@
+c:\users\liu\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\HelloWorld.dll
+c:\users\liu\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+c:\users\liu\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+c:\users\liu\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Owin.dll
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\Users\Liu\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
